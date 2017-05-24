@@ -1,0 +1,42 @@
+@CHARSET "UTF-8";
+
+body {
+	font-family: "Times New Roman";
+	background: #fafafa;
+	color: #eee;
+}
+
+.titre {
+  font-family: "Times New Roman";
+  font-size: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
+
+	background: #ed1c40;
+	text-align: center;
+ 	color: #eee;
+ 	vertical-align:middle;
+
+  -moz-border-radius:    20px;
+  -webkit-border-radius: 20px;
+  border-radius:         20px;
+}
+
+.contenu {
+  margin-top: 20px;
+	margin-left: auto;
+  margin-right: auto;
+  width: 840px;
+	border-style: solid;
+	border-width: 2px;
+	border-color: grey;
+	background: #fafafa;
+
+  padding: 20px;
+  text-align: center;
+
+  -moz-border-radius:    20px;
+  -webkit-border-radius: 20px;
+  border-radius:         20px;
+}
